@@ -1,0 +1,12 @@
+create directory 
+
+python -m venv .
+
+.\Scripts\activate
+
+pip install twine setuptools wheel
+
+python .\setup.py sdist bdist_wheel
+
+twine.exe upload --repository-url https://pkgs.dev.azure.com/learningcloud31/learningcloud31/_packaging/myapp/pypi/upload .\dist\*
+
