@@ -1,0 +1,6 @@
+pyvenv.cfg
+check.pyvenv
+/site
+
+.mypy_cache/
+

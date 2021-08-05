@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+raghav_python_package.egg-info/PKG-INFO
+raghav_python_package.egg-info/SOURCES.txt
+raghav_python_package.egg-info/dependency_links.txt
+raghav_python_package.egg-info/entry_points.txt
+raghav_python_package.egg-info/top_level.txt
+square/__init__.py
+square/__main__.py

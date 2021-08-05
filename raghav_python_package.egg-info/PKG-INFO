@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: raghav-python-package
+Version: 1.0.0
+Summary: It Square the Number
+Home-page: https://github.com/raghavag1997/python-package
+Author: Raghav Agarwal
+Author-email: test@gmail.com
+License: MIT
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# raghav sample Package
+It takes an integer as an input and prints it sqaure
+
+## Installation
+``` pip install raghav-sample-package```
+
+## License
+
+2021 Raghav Agarwal
+
+
+
